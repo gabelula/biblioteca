@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+title = "Biblioteca Punta del Diablo"
+languageCode = "es"
+theme = ["hugo-lamp"]
+
+#7188ba
+
+[params]
+  subtitle = "El Viaje De Los Libros"
+  description = "Prestamo de libros en biblioteca comunitaria de Punta del Diablo en Uruguay"
+  logo = "/images/biblioteca-logo.jpeg"
+  
+  seotitle = "La biblioteca comunitaria de Punta Del Diablo Rocha Uruguay"
+  
+  email = "biblioteca@pdd.uy"
+  twitter = "biblioteca.punta.del.diablo"
+  instagram = "blioteca.punta.del.diablo"
+  [[menu.main]]
+    name = "Sobre este Proyecto"
+    weight = 1
+    identifier = "proyecto"
+    url = "/posts/biblioteca-punta-del-diablo/"
