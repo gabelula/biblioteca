@@ -28,7 +28,7 @@ Llevaremos un registro de personas que lleguen al espacio para rastrear el viaje
 
 ## Como funcionamos? Horarios? Lugar de residencia de los libros?
 
-Nuestro espacio estara abierto los **Miercoles de 18 a 20hrs**, comenzando a funcionar el 8 de Diciembre del 2021.
+Nuestro espacio esta abierto todos los **Jueves de 15:30 a 17:30 horas**.
 
 {{< figure src="/images/domo.jpg" title="Domo Biblioteca de Punta del Diablo" >}}
     
